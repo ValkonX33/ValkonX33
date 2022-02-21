@@ -4,6 +4,7 @@
 
 
 
+
 <a href="https://github.com//">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValkonX33&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Valkon Contb" />
 </a>
@@ -12,9 +13,9 @@
 </a>
 <br>
 
-*Contact me @ `'xozac3876'` over [Discord]
-(https://discord.com/channels/@me)*
-Twitter: @[Valkonx33](https://twitter.com/Valkonx33)
+*Contact me @ `'xozac3876'` over [Discord](%28https://discord.com/channels/@me%29*)*
+
+*Twitter: @[Valkonx33](https://twitter.com/Valkonx33)*
 
 <code>Total Vistors</code>
 <br>
