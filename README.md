@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ValkonX33&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple" alt="Valkon Contb" />
 </a>
 <a href="https://github.com/ValkonX33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=midnight-purple&langs_count=10" alt="TopLang"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValkonX33&layout=compact&theme=midnight-purple&langs_count=10" alt="TopLang"/>
 </a>
 <br>
 
