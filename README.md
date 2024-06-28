@@ -7,6 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValkonX33&layout=compact&theme=midnight-purple&langs_count=10" alt="TopLang"/>
 </a>
 <br>
+[![ValkonX33's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValkonX33)](https://github.com/ValkonX33/github-readme-stats)
+
+
 
 *Contact me @ `'xozac3876'` over [Discord](https://discord.com/channels/@me)*
 
